@@ -4,4 +4,4 @@
  
 [ ] Take over the world
 
-[ ] Buy something out of  aliexpress
+[ ] Buy something off of aliexpress
