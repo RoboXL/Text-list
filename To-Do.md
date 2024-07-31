@@ -7,3 +7,5 @@
 [ ] Buy something off of  aliexpress
 
 [ ] Do 20 push ups
+
+[ ] Clean and take care of my face for the first time
