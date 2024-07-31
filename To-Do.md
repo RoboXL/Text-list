@@ -1,2 +1,2 @@
 [x] Do math homework
-[x] Do History project | Due in 5 days
+[x] Do History project | Due in 4 days
