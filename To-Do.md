@@ -1,2 +1,2 @@
-[x] Win gay fest
-[x] Lose straight fest
+[ ] Do math homework
+[x] Do History project | Due in 5 days
