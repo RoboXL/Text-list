@@ -1,11 +1,7 @@
 [ ] Work on Redate
  
-[x] Show people the esp 32 to do list
- 
-[x] Take over the world
-
 [ ] Buy something off of  aliexpress
-
+ 
 [ ] Do 20 push ups
-
-[ ] Clean and take care of my face for the first time
+ 
+[x] Clean and take care of my face for the first time
