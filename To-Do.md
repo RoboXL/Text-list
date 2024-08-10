@@ -1,7 +1,7 @@
 [ ] Work on Redate
  
-[ ] Buy something off of  aliexpress
+[x] Buy something off of  aliexpress
  
-[ ] Do 20 push ups
+[-] Do 20 push ups
  
 [x] Clean and take care of my face for the first time
